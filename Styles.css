@@ -1,0 +1,22 @@
+/*mein erstes Stylesheet*/
+body{
+	font-family:sane-serif;
+	}
+h1,h2,h3
+	{
+	font-family:serif;
+	}
+h1
+			{
+			text-align:center;
+			front-size:80px;
+			}
+h3
+			{
+			color:green;
+			}
+			figure 
+			{
+			border:2px dotted green;
+			padding:2em;
+			}
